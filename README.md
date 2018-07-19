@@ -5,7 +5,7 @@ To launch the application, you must have python 2.7, virtualenv and pip installe
 2. Go to the root directory and install the required libraries in a virtualenv
 ```
 virtualenv -p python2.7 venv
-source venv/bin/active
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
